@@ -2,7 +2,7 @@
 CLS
 REM ------------------------------------------------------------------------------------------------------------------------
 REM baseline collection tool v1.0
-REM by Doug Richmond (doug@defendthehoneypot.com)
+REM by Doug Richmond (defendthehoneypot@gmail.com)
 REM
 REM About:
 REM Script to automate collecting a system baseline
